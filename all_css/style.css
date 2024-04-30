@@ -1,0 +1,5 @@
+/* Index file paragraph background color black and text color white */
+p{
+    background-color: black;
+    color: white;
+}
